@@ -1,0 +1,8 @@
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\GetStartedApp.csproj.AssemblyReference.cache
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\Avalonia\Resources.Inputs.cache
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\Avalonia\resources
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\GetStartedApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\GetStartedApp.AssemblyInfoInputs.cache
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\GetStartedApp.AssemblyInfo.cs
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\GetStartedApp.ImplicitNamespaceImports.cs
+C:\Users\Ptest\Documents\task4-2\GetStartedApp\obj\Debug\net6.0\GetStartedApp.csproj.CoreCompileInputs.cache
